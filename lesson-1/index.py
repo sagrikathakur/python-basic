@@ -21,3 +21,14 @@ print(new_age + 2)
 
 # type conversion
 print(1 + 2.3)
+
+# indentations
+age = 20
+
+if age >= 18:
+  print("Adult")
+else:
+
+  print("Minor")
+  
+
