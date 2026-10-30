@@ -1,12 +1,6 @@
 # for loop ; repeat on specific range
 
-for i in range(1 , 8 ):
+# print 10 to 1
+for i in range(10 , 0 , -1):
   print(i)
 
-  # while loop
-
-  a = 1 
-
-  while a <= 9:
-    print(a)
-    a=a+1
